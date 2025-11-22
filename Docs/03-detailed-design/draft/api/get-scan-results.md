@@ -212,3 +212,4 @@ const response = await window.electron.ipcRenderer.invoke(
 - [filterResults](./filter-results.md) - 調査結果をフィルタリング
 - [searchResults](./search-results.md) - 調査結果を検索
 
+

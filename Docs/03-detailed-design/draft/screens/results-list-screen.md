@@ -181,3 +181,4 @@
 - [調査結果詳細画面](./result-detail-screen.md)
 - [調査履歴画面](./history-screen.md)
 
+

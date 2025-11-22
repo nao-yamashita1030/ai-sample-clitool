@@ -238,3 +238,4 @@
 - [設定画面](./settings-screen.md)
 - [調査履歴画面](./history-screen.md)
 
+

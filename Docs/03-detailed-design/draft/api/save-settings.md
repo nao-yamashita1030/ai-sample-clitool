@@ -51,3 +51,4 @@ interface Settings {
 
 - [getSettings](./get-settings.md) - 設定を取得
 
+

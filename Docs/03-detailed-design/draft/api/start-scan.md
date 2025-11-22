@@ -190,3 +190,4 @@ const scanHistory = await window.electron.ipcRenderer.invoke(
 - [resumeScan](./resume-scan.md) - 調査を再開
 - [getScanResults](./get-scan-results.md) - 調査結果を取得
 
+

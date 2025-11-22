@@ -76,3 +76,4 @@
 - [メイン画面](./main-screen.md)
 - [調査結果一覧画面](./results-list-screen.md)
 
+

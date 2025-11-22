@@ -38,3 +38,4 @@ https://example.com/broken,https://example.com/page1,リンクテキスト,404,,
 
 - [getScanResults](./get-scan-results.md) - 調査結果を取得
 
+

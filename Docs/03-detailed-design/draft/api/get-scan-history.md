@@ -48,3 +48,4 @@ interface ScanHistory {
 
 - [getScanResults](./get-scan-results.md) - 調査結果を取得
 
+
